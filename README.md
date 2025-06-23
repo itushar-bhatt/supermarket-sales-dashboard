@@ -1,12 +1,12 @@
-# supermarket-sales-dashboard
-Excel-based sales dashboard with data cleaning, pivot tables, and visualizations.
 
-📊 Supermarket Sales Dashboard – Excel Project
+# 📊 Supermarket Sales Dashboard – Excel Project
+
 This project is a complete Excel-based dashboard and analysis solution using a supermarket sales dataset. It showcases data cleaning, transformation, pivot table analysis, and dashboard design — perfect for understanding real-world business insights using Excel.
 
 ---
 
-🧰 Tools & Skills Used
+## 🧰 Tools & Skills Used
+
 - Microsoft Excel
 - Pivot Tables
 - Data Cleaning & Transformation
@@ -17,7 +17,8 @@ This project is a complete Excel-based dashboard and analysis solution using a s
 
 ---
 
-📁 Files Included
+## 📁 Files Included
+
 - `Sales Dashboard.xlsx` – Full interactive dashboard with slicers and charts
 - Raw data (cleaned in Excel)
 - Additional calculated columns:
@@ -29,17 +30,20 @@ This project is a complete Excel-based dashboard and analysis solution using a s
 
 ---
 
-📈 Key Insights Generated
--  Top product categories by revenue
--  Branch- and city-wise performance
--  Customer type analysis (Members vs Normal)
--  Gender-based average rating comparison
--  Monthly revenue trends
--  Hourly footfall distribution
+## 📈 Key Insights Generated
+
+- Top product categories by revenue
+- Branch- and city-wise performance
+- Customer type analysis (Members vs Normal)
+- Gender-based average rating comparison
+- Monthly revenue trends
+- Hourly footfall distribution
 - Payment Gateway
+
 ---
 
-📌 Pivot Tables Created
+## 📌 Pivot Tables Created
+
 1. Total Sales by Product Line  
 2. Sales by Branch and City  
 3. Customer Type vs Revenue  
@@ -50,7 +54,8 @@ This project is a complete Excel-based dashboard and analysis solution using a s
 
 ---
 
-📊 Dashboard Features
+## 📊 Dashboard Features
+
 - Interactive slicers (City, Gender, Customer Type, Product Line)
 - Clean, organized layout with labelled sections
 - Consistent color palette and visual formatting
@@ -58,11 +63,14 @@ This project is a complete Excel-based dashboard and analysis solution using a s
 
 ---
 
-📸 Dashboard Preview
- 
+## 📸 Dashboard Preview
+
+On the Image folder
+
 ---
 
-🧠 What I Learned
+## 🧠 What I Learned
+
 - How to clean and transform messy data using Excel functions
 - Hands-on experience with pivot tables and dynamic dashboards
 - Translating business questions into visual insights
@@ -70,20 +78,22 @@ This project is a complete Excel-based dashboard and analysis solution using a s
 
 ---
 
-🚀 How to Use
+## 🚀 How to Use
+
 1. Download or clone the repository
 2. Open `Sales Dashboard.xlsx` in Excel
 3. Use slicers to interactively filter and explore insights
 
 ---
 
-📬 Contact
-Created by Tushar Bhatt
-Connect with me on LinkedIn  -  https://linkedin.com/in/itusharbhatt 
-Check out more projects: GitHub Profile  -  itushar-bhatt
+## 📬 Contact
+
+Created by Tushar Bhatt  
+Connect with me on LinkedIn -- https://linkedin.com/in/itusharbhatt
+Check out more projects: GitHub Profile  --  https://github.com/itushar-bhatt
 
 ---
 
-⭐ Credits
-Dataset inspired by public sample datasets often used in data analytics practice (like Kaggle). This project was built for portfolio learning purposes.
+## ⭐ Credits
 
+Dataset inspired by public sample datasets often used in data analytics practice (like Kaggle). This project was built for portfolio learning purposes.
